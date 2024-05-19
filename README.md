@@ -1,8 +1,3 @@
-# React + Vite
+# Tesla-Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Screenshot 2024-05-19 195820](https://github.com/p00jitha/tesla-clone/assets/129841150/838e6944-4c89-4457-adf9-c1a1f7a430ef)
